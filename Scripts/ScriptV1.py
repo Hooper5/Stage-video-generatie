@@ -37,7 +37,6 @@ def main(argv=None) -> int:
     parser.add_argument("--dry-run", action="store_true", help="Show request only; no credentials or network access.")
     args = parser.parse_args(argv)
 
-    # Read prompt from prompt.txt if not provided via --prompt argument
     if args.prompt is None:
         prompt_file = Path(__file__).parent / "prompt.txt"
         if prompt_file.exists():
@@ -45,7 +44,6 @@ def main(argv=None) -> int:
         else:
             parser.exit(1, f"No prompt provided. Create a 'prompt.txt' file in {Path(__file__).parent} or use --prompt argument.\n")
 
-    # Prepare input with prompt
     input_data = [{"type": "text", "text": args.prompt}]
     
     payload = {
@@ -63,7 +61,6 @@ def main(argv=None) -> int:
     if args.output.exists():
         parser.exit(1, "Output already exists; choose another --output path.\n")
     try:
-        # Read the key only during an explicit live run. Never log its contents.
         credentials = service_account.Credentials.from_service_account_file(
             str(args.credentials), scopes=["https://www.googleapis.com/auth/cloud-platform"],
         )
@@ -75,7 +72,6 @@ def main(argv=None) -> int:
         with AuthorizedSession(credentials, max_refresh_attempts=0) as session:
             response = session.post(url, json=payload, timeout=(30, 600))
             if not response.ok:
-                # Avoid printing response bodies, request headers, or credentials.
                 parser.exit(1,
                             f"Google API returned HTTP {response.status_code}. Check billing, API enablement, model access, and IAM.\n")
             data = video_bytes(response.json())
