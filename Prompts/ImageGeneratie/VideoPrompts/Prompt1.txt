@@ -1,0 +1,71 @@
+You are a visual director and food stylist creating a short recipe video fragment
+for Allerhande, the recipe platform of Albert Heijn. Your goal is to generate a
+single video shot that is appetizing, instructional, and visually consistent with
+the Allerhande brand. This shot is part of a multi-step recipe video sequence and
+should connect seamlessly with previous and subsequent shots.
+ 
+Recipe context Use this as a context as to what is coming before and after this specific step but ONLY generate the things that are specifically mentioned in the specific step that is mentioned later
+
+
+Generate this shot
+
+A medium pot with a thick base holds a large amount of dry pearl couscous. These are small, round, pale beige pasta balls of about 3 mm, covered in water. The pearl couscous swells into plump, soft, slightly translucent, pale golden-beige balls. A large handful of frozen garden peas is then scattered over the surface. These are small, round, bright green peas with a light frosty coating, and they spread evenly through the pearl couscous. The peas turn glossy and vivid green. The whole contents of the pot, pearl couscous and garden peas together, are poured into a metal colander in the sink, and the water drains away. The plump pearl couscous and bright green garden peas are then returned to the empty pot, spread evenly in a loose heap. A lid is placed on the pot, which sits still
+
+All pre-existing ingredients in the pan remain visible, intact, and unchanged
+throughout the entire shot—they do not shrink, dissolve, or disappear.
+
+Camera & Perspective Top-down overhead shot at a strict 90-degree angle, with a fixed, stable camera. Shot on a professional cinema camera with slight natural lens distortion and subtle film grain. High resolution with deep focus, so the pan and all ingredients are clearly visible at all times.
+
+Composition The frying pan is exactly centered in the frame. Only hands and forearms are visible.
+
+Lighting High-key lighting soft, bright and even, mimicking natural daylight, with minimal, very soft shadows. Realistic specular highlights on wet surfaces and oils.
+
+Environment & Color Light beige concrete or natural stone surface with subtle natural imperfections. Vibrant, saturated ingredients contrast with the calm neutral background. Soft pastel accents (light pink, pastel blue, soft yellow) and aesthetic kitchen props at the edges of the frame, such as olive oil bottles, pepper mills and pastel vases, add depth without blocking the main action. Overall a modern, minimalist, cozy and clean kitchen aesthetic.
+
+Color Grading Photorealistic color grading with vibrant but natural colors.
+
+
+Set Design A modern, minimalist yet cozy clean kitchen aesthetic. Stainless steel
+frying pan, wooden spatula. All kitchen utensils must be brand new, clean and
+pristine with no signs of prior use.
+
+
+Food & Ingredients
+- All ingredients must match reference.jpg exactly in size, shape, color,
+and texture
+- Ingredients remain COMPLETELY VISIBLE and UNCHANGED in form throughout the
+entire shot
+- Only ingredients explicitly mentioned in the action description change appearance
+- All other ingredients maintain their original appearance
+- High color saturation on all ingredients with realistic moisture and texture
+
+Action & Dynamics Only hands and forearms visible in frame, making quick, fluid
+movements with realistic human hand movements. New ingredients are added to the
+pan with fat. All ingredients settle naturally under gravity. All pre-existing
+ingredients remain on the surface and stay visible throughout. Natural steam
+rises realistically from hot surfaces. Fast-paced editing with seamless cuts—
+dead space is cut out. Dynamic but NOT transformative ingredients change
+colortexture due to cooking, but NOT shape, size, or visibility.
+
+Color Grading Photorealistic color grading with vibrant but natural colors.
+
+Negative prompt No faces, no full arms, no dark backgrounds, no text or graphics,
+no cluttered surfaces, no harsh shadows, no camera movement, no CGI look, no
+plastic or artificial textures, no oversaturation. No used, worn or dirty kitchen
+utensils. CRITICAL No ingredients disappearing mid-shot. No ingredients shrinking,
+dissolving, blending together, or vanishing. No ingredients changing from one form
+to another. All ingredients remain clearly visible and intact throughout the entire
+shot. No inconsistency in ingredient appearance between frames. All ingredients
+must look exactly like reference.jpg—same size, shape, and color throughout the shot.
+
+REFERENCE IMAGE reference.jpg is the definitive visual guide for ingredient size,
+shape, color, and composition. The AI output must match this reference precisely.
+
+REFERENCE IMAGE COMPLIANCE Match reference.jpg exactly for
+- Size of all ingredients match the reference precisely
+- Color of all ingredients match the reference precisely
+- Quantity and distribution match the reference precisely
+- All ingredients remain on the surface, fully visible at all times
+
+This is the visual standard that must be maintained consistently throughout the
+entire video fragment.

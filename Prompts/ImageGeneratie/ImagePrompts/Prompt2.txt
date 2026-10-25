@@ -1,0 +1,139 @@
+You are a food photography director creating a single STATIC START FRAME image
+
+for a recipe video fragment for Allerhande, the recipe platform of Albert Heijn.
+
+This image represents the very first frame of the video shot — the moment just
+
+BEFORE any action begins. Nothing is moving, nothing has been added yet, nothing
+
+has changed. It is a clean, composed, photorealistic still image.
+
+
+
+Recipe context: Use this as context for the full recipe, but ONLY show what is
+
+explicitly described in the specific shot description below.
+
+https://www.ah.nl/allerhande/recept/R-R810346/pasta-met-spinazie-en-spekjes
+
+
+
+Generate the start frame for this shot:
+
+A heavy-bottomed, wide, round braadpan (a deep skillet with a thick base) is empty and dry. A pile of raw smoked spekreepjes is added. These are short, narrow strips of smoked pork belly, about 3 cm long and 5 mm wide, with alternating pink meat and white fat. They lie in a single layer across the pan and are stirred continuously with a wooden spatula. The pale pink and white strips shrink slightly, release clear liquid fat, and turn deep golden-brown and crispy, with curled edges. The crispy spekreepjes are lifted out with a slotted spoon and spread on a white plate lined with kitchen paper. The kitchen paper absorbs the excess fat. The braadpan stays on the stove with a thin layer of glossy, translucent, light-brown rendered fat on its base. 
+
+## WHAT A START FRAME IS
+
+- A perfectly still, photorealistic image
+
+- Captures the exact moment BEFORE the action of the shot begins
+
+- All ingredients that are present at the START of the shot are visible,
+
+  already placed in their starting position, the ingredients are placed in non branded and neutral bowls, plates or what fits the ingredient
+
+- No hands visible — hands have not entered the frame yet
+
+- No motion, no steam, no mid-action states
+
+- Ingredients are in their pre-action state: uncooked if not yet cooked,
+
+  raw if not yet seared, whole if not yet stirred, etc.
+
+When something is cooked in a pan or pot, the pan or pot is always on a stove or something you can cook on
+
+
+
+## WHAT A START FRAME IS NOT
+
+- Not mid-action (no pouring in progress, no stirring, no hands in frame)
+
+- Not the end state of the shot
+
+- Not a shot from a previous or next step
+
+
+
+## COMPOSITION & FRAMING
+
+- Top-down overhead shot, strictly 90-degree angle
+
+- The pan or vessel is exactly center-framed
+
+- Fixed, stable — no camera movement implied
+
+- Deep focus: all ingredients and the vessel are sharply in focus
+
+
+
+## LIGHTING
+
+- High-key lighting; soft, bright and even light mimicking natural daylight
+
+- Minimal or very soft shadows
+
+- Realistic specular highlights on wet surfaces, oils, and metals
+
+
+
+## ENVIRONMENT
+
+- Light beige concrete or natural stone surface with subtle natural imperfections
+
+- Soft pastel-colored accents in the background (light pink, pastel blue,
+
+  soft yellow)
+
+- Edges of the frame subtly dressed with aesthetic kitchen props such as olive
+
+  oil bottles, pepper mills, pastel-colored vases — adding depth without
+
+  blocking the main subject, no ingredients are loose on the counter
+
+- Modern, minimalist, cozy clean kitchen aesthetic
+
+
+
+## VESSEL & UTENSILS
+
+- Stainless steel frying pan (or appropriate vessel for the shot)
+
+- Wooden spatula resting beside or in the pan, not in motion
+
+- All kitchen utensils brand new, clean, and pristine — no signs of prior use
+
+
+
+## FOOD & INGREDIENTS
+
+- All ingredients visible in the start frame must match reference.jpg exactly
+
+  in size, shape, color, and texture
+
+- Ingredients are fully visible, completely intact, and clearly distinguishable
+
+- High color saturation with realistic moisture and texture
+
+- No blending, merging, or overlapping that obscures individual ingredients
+
+
+
+## COLOR GRADING
+
+- Photorealistic color grading with vibrant but natural colors
+
+- Consistent with Allerhande brand aesthetic: warm, inviting, fresh
+
+
+
+## NEGATIVE PROMPT
+
+No hands, no faces, no motion blur, no steam, no mid-action states, no dark
+
+backgrounds, no text or graphics, no cluttered surfaces, no harsh shadows,
+
+no CGI look, no plastic or artificial textures, no oversaturation, no worn
+
+or dirty utensils. No ingredients that belong to a later step. No ingredients
+
+in a state that only occurs after the action of this shot has begun. No ingredients loose on counters.
