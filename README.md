@@ -4,4 +4,4 @@ De prompts zullen in Github verschillende namen hebben. Als je de testen wilt ui
 
 Voor testen met referentie materiaal moet je bij elke test de images renamen naar "reference1.jpg", "reference2.jpg", "reference3.jpg" en zo voort.
 
-De laatste test, om afbeeldingen te genereren, moet je een .env file opstellen. In de .env file moet je 3 verschillende variablen opstellen: GENAI_API_KEY, GENAI_BASE_URL, GENAI_IMAGE_MODEL.
+Voor de laatste test, om afbeeldingen te genereren, moet je een .env file opstellen. In de .env file moet je 3 verschillende variablen opstellen: GENAI_API_KEY, GENAI_BASE_URL, GENAI_IMAGE_MODEL.
